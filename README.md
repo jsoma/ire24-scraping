@@ -18,6 +18,8 @@ Each example uses [Playwright](https://playwright.dev/python/) for scraping, a "
 
 It's *also also* great because unlike traditional scraping you can actually see what's going on with the page, which makes things a little more... accessible? friendly?
 
+> **Note for Windows:** For some reason only one particular version of one particular thing works on Windows, so you need to run `pip install ipykernel==6.28.0` before running Jupyter. The explanation is long and complicated.
+
 ## The examples
 
 - [Texas Tow Trucks Licenses](01-Texas%20Tow%20Trucks%20Licenses.ipynb): dropdowns
