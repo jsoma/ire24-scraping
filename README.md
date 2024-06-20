@@ -1,4 +1,6 @@
-# Using Playwright to scrape state-level license and violations data
+# Scrape state-level license and violations data with browser automation tools
+
+a.k.a. "Using Playwright to scrape pages that require you to fill out forms"
 
 ## IRE 2024, Los Angeles
 
