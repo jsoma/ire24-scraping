@@ -23,13 +23,13 @@ It's *also also* great because unlike traditional scraping you can actually see 
 - [New Jersey Perfusionists](03-New%20Jersey%20Perfusionists.ipynb): dropdowns, numbered pages
 - [Massachusetts Optometrists](04-Massachusetts%20Optometrists.ipynb): dropdowns, downloading files
 - [North Dakota Oil Wells](05-North%20Dakota%20Oil%20Wells.ipynb): dropdowns, using every dropdown option
-- [Maryland Locksmiths](06-Maryland%20Locksmiths.ipynb): 
-- [California Midwives](07-California%20Midwives.ipynb): 
-- [Texas Tow Trucks Details](08-Texas%20Tow%20Trucks%20Details.ipynb): 
-- [Chicago Buildings](09-Chicago%20Buildings.ipynb): 
-- [Texas Medical Board Actions](10-Texas%20Medical%20Board%20Actions.ipynb): 
-- [Texas Medical Board Actions Details](11-Texas%20Medical%20Board%20Actions%20Details.ipynb): 
-- [Ohio, a failure](12-Ohio.ipynb): 
+- [Maryland Locksmiths](06-Maryland%20Locksmiths.ipynb): text boxes, inspecting pages, lists of inputs (zip codes), back button
+- [California Midwives](07-California%20Midwives.ipynb): changing browsers, dropdowns, infinite scroll, combining with BeautifulSoup
+- [Texas Tow Trucks Details](08-Texas%20Tow%20Trucks%20Details.ipynb): dropdowns, text fields, lists of inputs (licenses from a CSV), saving entire HTML page
+- [Chicago Buildings](09-Chicago%20Buildings.ipynb): faking typing, lists of inputs (addresses), CSS selectors, clicking links that open new pages, updating dataframes, 
+- [Texas Medical Board Actions](10-Texas%20Medical%20Board%20Actions.ipynb): text inputs, inspecting the page, manipulating dates, lists of inputs (dates)
+- [Texas Medical Board Actions Details](11-Texas%20Medical%20Board%20Actions%20Details.ipynb): text fields, clicking links, downloading files, changing browsers, lists of inputs (license numbers)
+- [Ohio, a failure](12-Ohio.ipynb): dropdowns, lists of inputs, using every dropdown option, me giving up (ell oh ell?)
 
 ## More links
 
